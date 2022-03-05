@@ -1,2 +1,9 @@
-# VillagerMod
-Minecraft Fabric Mod, supports Minecraft 1.18.2+ . API: 可装 前置：ModMenu 状态：活跃 / 开源
+# Fabric Example Mod
+
+## Setup
+
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
