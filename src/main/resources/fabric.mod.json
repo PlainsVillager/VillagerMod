@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "villagermod",
+  "version": "0.2.0-beta.3-22w12a",
+  "name": "VillagerMod",
+  "description": "VillagerMod 1.19 Deep Dark Snapshot Version",
+  "authors": [
+    "PlainsVillager",
+    "Lv"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/villagermod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.plainsvillager.villagermod.Villagermod"
+    ]
+  },
+  "mixins": [
+    "villagermod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.19-alpha.22.12.a"
+  }
+}

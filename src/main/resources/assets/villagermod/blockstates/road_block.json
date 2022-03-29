@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "villagermod:block/road_block" }
+  }
+}
