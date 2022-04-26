@@ -58,6 +58,6 @@ Minecraft Fabric Mod, supports Minecraft 1.18.2+ . 状态：活跃 / 开源。
 #### 开发
 
 1. fork本仓库，然后使用`git clone https://github.com/PlainsVillager/VillagerMod.git`
-2. 在根目录运行gradlew idea
+2. 在根目录运行`gradlew idea`
 3. build succesful后，打开目录里的.ipr文件
 4. 点击左下角的使用gradle构建脚本
