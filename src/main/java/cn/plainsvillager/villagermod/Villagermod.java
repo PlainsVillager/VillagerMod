@@ -20,7 +20,7 @@ public class Villagermod implements ModInitializer {
     public static final VillagerPickaxe VILLAGER_PICKAXE = new VillagerPickaxe(new VillagerPickaxeTool(),2,-2.0F,new Item.Settings());
     public static final Item OLD_EIGHT_LITTLE_HAMBURGER = new Item(new Item.Settings().group(Villagermod.VillagerMod)
             .food((new FoodComponent.Builder())
-                    .hunger(7)
+                    .hunger(8)
                     .saturationModifier(1.2F)
                     .build())
             .maxCount(16));
